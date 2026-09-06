@@ -11,6 +11,23 @@ Smart Procurement Assistant for Ministry of Consumer Affairs - Live Queue, QR Sc
 - Rampur: `/api/crowd/live?mandi=Rampur` -> `{"live_bheed": 43, "avg_wait_min": 86}`
 - Ghaziabad: `/api/crowd/live?mandi=Ghaziabad`
 **Status:** LIVE and Working on Replit Cloud
+
+## ✅ My Contribution – Smart Procurement & DBT Backend
+
+**Member:** [Paras Chaudhary]  
+**Folder:** `/backend/`  
+**Technology:** Java, Spring Boot, Supabase PostgreSQL  
+
+### Key Contributions
+
+- Built REST APIs for farmer registration and procurement-centre management  
+- Developed live queue token generation and queue-status tracking  
+- Implemented QR-based farmer verification at procurement centres  
+- Integrated official Government MSP rates for crop procurement  
+- Created DBT payment calculation and payment-status tracking  
+- Added SMS and IVR notification tracking APIs  
+
+**Complete Flow:** Farmer Registration → Live Queue → QR Verification → MSP Procurement → DBT Payment → SMS / IVR Updates
 ## ⚙️ Backend Implementation
 
 MandiSetu includes a Java Spring Boot backend connected to Supabase PostgreSQL.
