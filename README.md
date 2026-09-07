@@ -1,6 +1,5 @@
 ## 🚀 LIVE DEMO - Team ke liye
-Click karo aur bheed dekho: https://mandisetu-xyz.replit.dev/api/crowd/live?mandi=Rampur
-Frontend: https://geekyAshuuuu.github.io/MandiSetu-SIH2026/
+Click karo aur bheed dekho: https://09afb679-4694-4fd9-8f14-d3a911705a5d-00-1wg4god5xej51.sisko.replit.dev/api/crowd/live?mandi=Rampur Demo:
 # MandiSetu-SIH2026
 Smart Procurement Assistant for Ministry of Consumer Affairs - Live Queue, QR Scan, DBT Payment Tracking
 <img width="1435" height="792" alt="Screenshot 2026-09-05 at 3 57 25 PM" src="https://github.com/user-attachments/assets/aa99200f-6a0d-4140-8936-d47ef129c2fd" />
