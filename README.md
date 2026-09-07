@@ -82,3 +82,14 @@ http://localhost:8080
 ```
 
 > Database credentials are kept private in `application-local.properties` and are not uploaded to GitHub.
+
+## 👨‍💻 My Contribution
+
+**Member:** Arpit Shukla  
+**GitHub:** `arpitshukla-1`
+
+### Work Done
+- Worked on the Farmer App frontend
+- Updated `app.js`
+- Improved frontend functionality and application flow
+- Contributed to the Farmer App module
