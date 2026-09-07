@@ -93,3 +93,16 @@ http://localhost:8080
 - Updated `app.js`
 - Improved frontend functionality and application flow
 - Contributed to the Farmer App module
+✅ My Contribution - CSS & Frontend Styling Module
+
+Member: [Aditya Pratap Singh]
+Folder: /farmer-app/src/App.css
+
+My Contribution:
+• Designed and implemented the complete CSS styling for the Farmer App.
+• Created a clean, responsive, and user-friendly interface.
+• Styled buttons, forms, cards, navigation, dashboard, and other UI components.
+• Added responsive design for different screen sizes.
+• Improved spacing, typography, colors, layouts, and overall visual consistency.
+
+Status: CSS Integrated and Working Successfully
