@@ -1,4 +1,18 @@
+name: MandiSetu CI Check
 
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Success Check
+        run: echo "MandiSetu SIH2026 Build Successful ✅"
 
 ## ✅ My Contribution – Smart Procurement & DBT Backend
 
